@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>Error</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+       <body background="C:\Users\Дом\Desktop\web_2/bg.jpg">
+
+        <h1 align="center"><font color="white">Автомобили</font></h1><br>
+ 
+        <p><a name="top"></a></p>
+        <h4 align="left"><font color="white">Быстрый выбор:</font></h4>
+        <ul type="disc">
+        	<li><em><a href="#Легковой автомобиль">Легковой автомобиль</a></em></li>
+        	<li><em><a href="#Грузовой автомобиль">Грузовой автомобиль</a></em></li>
+         	<li><em><a href="#Автобус(en. Bus)">Автобус(en. Bus)</a></em></li>
+		<li><em><a href="#Гоночный автомобиль">Гоночный автомобиль</a></em></li>
+       </ul>
+        <h4 align="left"><font color="White">Типы автомобилей</font></h4> <br>
+        	
+		
+		<p align="left"><strong><em><a name="Легковой автомобиль"><font color="White">Легковой автомобиль</em> (жарг. легковушка)</a> — автомобиль, предназначенный для перевозки пассажиров и багажа, вместимостью от 2 до 8 человек. Требует для управления водительские права категории «B».</strong><font></p>
+                <a href="https://ru.wikipedia.org/wiki/Легковой автомобиль" target="_blank" title="Посмотреть в Википедии">
+                    	<img src="C:\Users\Дом\Desktop\web_2/l.jpg" align="left"  width="180" height="180" hspace="20" vspace="20"> </a>
+		<br><br><br><br><br><br><br><br><br><br><br><br><hr>
+                
+                <p align="right"><strong><em><a name="Грузовой автомобиль"><font color="White">Грузовой автомобиль</em> (разг. грузовик)</a> — автомобиль, предназначенный для перевозки грузов в кузове или на грузовой платформе.</strong><font></p>
+                <a href="https://ru.wikipedia.org/wiki/Грузовой автомобиль" target="_blank" title="Посмотреть в Википедии">
+                	<img src="C:\Users\Дом\Desktop\web_2/h.jpg" align="right"  width="180" height="180" hspace="20" vspace="20"></a>
+		<br><br><br><br><br><br><br><br><br><br><br><br><hr>
+
+                <p align="left"><strong><em><a name="Автобус(en. Bus)"><font color="White">Автобус </em>(en. Bus)</a> — (contracted from omnibus,[1] with variants multibus, motorbus, autobus, etc.) is a road vehicle designed to carry many passengers.</strong><font></p>
+                <a href="https://en.wikipedia.org/wiki/Bus" target="_blank" title="Посмотреть в Википедии(англ. версия)">
+                	<img src="C:\Users\Дом\Desktop\web_2/b.jpg" align="left" width="180" height="180" hspace="20" vspace="20"></a>
+		<br><br><br><br><br><br><br><br><br><br><br><br><hr>
+
+                <p align="right"><strong><em><a name="Гоночный автомобиль"><font color="White">Гоночный автомобиль</em></a> — автомобиль, сконструированный и построенный специально для автомобильных соревнований (как для массовых гонок, так и для установления рекордов скорости).</strong><font></p>
+                <a href="https://wiki2.org/ru/Гоночный_автомобиль" target="_blank" title="Посмотреть в Википедии(переиздание)">
+                	<img src="C:\Users\Дом\Desktop\web_2/s.jpg" align="right"  width="180" height="180" hspace="20" vspace="20"></a>
+		<br><br><br><br><br><br><br><br><br><br><br><br><hr>
+
+ <p align="center"><a href="#top">Наверх</a></p>
+        
+    </body>
+</html>
